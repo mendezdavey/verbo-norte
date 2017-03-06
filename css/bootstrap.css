@@ -34,6 +34,9 @@
 	margin-top: -100px;
 	margin-left: 0px;
     }
+    .address-info-top{
+      margin-top: 77px;
+    }
 }
 /*mobile*/
 @media (max-width: 768px) {
@@ -42,6 +45,9 @@
     }
     .carousel-caption h1{
 	font-size: 4.5em;
+    }
+    .address-info-top{
+      margin-top: 71px;
     }
 }
 .full-width{
