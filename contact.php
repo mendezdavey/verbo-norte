@@ -26,7 +26,7 @@
         <p>Direccion: 7901 Cameron Rd #2, Austin, TX 78754 | Tel: 512-825-3472</p>
       </div>
     </div>
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
 	<!-- Brand and toggle get grouped for better mobile display -->
 	<div class="navbar-header">
